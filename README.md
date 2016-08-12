@@ -2,6 +2,7 @@
 Android 高仿微信语音聊天页面高斯模糊效果
 
 效果图：
+
 ![image](https://github.com/zuiwuyuan/FastBlur_VoiceChat/blob/master/imgs/img1.png)
 ![image](https://github.com/zuiwuyuan/FastBlur_VoiceChat/blob/master/imgs/img2.png)
 
